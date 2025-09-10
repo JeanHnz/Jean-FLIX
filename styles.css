@@ -13,5 +13,12 @@ header {
 
 section {
   background: rgb(184,156,213);
-  padd
+  padding-bottom: 80px;
+  padding-top: 80px;
+  display: flex;
+  justify-content: center;
+}
+
+.chamada-texto {
+  margin-right: 5%;
 }
